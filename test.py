@@ -1,2 +1,4 @@
-myvar ="hello";
-print (myvar+" Praneeth");
+import json
+
+myvar = "hello"
+print(myvar+" Praneeth")
